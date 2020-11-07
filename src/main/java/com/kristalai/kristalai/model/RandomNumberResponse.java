@@ -19,8 +19,6 @@ public  class RandomNumberResponse{
         this.cumulativeData = cumulativeData;
     }
 
-
-
     public List<Double> getGeneratedNumbers() {
         return generatedNumbers;
     }

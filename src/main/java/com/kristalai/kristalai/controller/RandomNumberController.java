@@ -20,6 +20,7 @@ RandomNumberService randomNumberService;
 
     @GetMapping(path = "/getRandomlyGeneratedNumbers")
     public ResponseEntity getDiscountedAmount() {
+
         HttpHeaders responseHeaders = new HttpHeaders();
         RandomNumberResponse randomNumberResponse = null;
         responseHeaders.add("content-type", "application/json");

@@ -4,7 +4,6 @@ package com.kristalai.kristalai.model;
 
 public  class  RandomNumberNode{
 
-
     Long elementDateMiliSeconds;
     Double number;
 
