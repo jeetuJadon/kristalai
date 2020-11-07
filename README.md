@@ -9,6 +9,9 @@
  cumulativeData data is cumulation according to previous/current
  inputs taken from first method. 
  
+ Duration has been taken seconds rather than minutes for better speedy
+ testing. It can be changed to minutes.
+ 
 
 
 **Api Endpoint** :  getRandomlyGeneratedNumbers
