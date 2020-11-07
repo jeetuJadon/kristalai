@@ -1,8 +1,7 @@
 **Note** :
  
  Technology Used are spring boot ,java 8,
-  data structure , REST 
- 
+  data structure , REST ,maven , timer 
  In Sample Output ,
  
  generatedNumbers is 5 random numbers(first api)
